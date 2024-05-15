@@ -2,8 +2,6 @@
 
 使用 github action 定时执行森空岛各版面登岛检票和明日方舟每日签到任务
 
-新增 每日随机时间签到
-
 ## 使用
 
 ### Fork 项目  
@@ -46,3 +44,7 @@
 至此，部署完毕。
 
 > 注意：github actions 会对60天没有活动的仓库自动禁用，你可能要主动关注一下 github actions 的运行情况（一般会发邮件通知 actions 执行失败）
+
+## ~~广告~~
+
+推荐一款浏览器扩展——[罗德岛远程指挥部](https://github.com/enpitsuLin/rhodes-headquarters) 能在浏览器上监控博士您岛上的最新信息
